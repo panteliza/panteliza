@@ -8,7 +8,7 @@ I love coding.
 
 * 🖥️  See my portfolio at [My Website](http://www.elizapant.com.np/)
 * ✉️  You can contact me at [elizapant.github@gmail.com](mailto:elizapant.github@gmail.com)
-* 🚀  I'm currently working on [MERN Event App](http://github.com/panteliza/event-mern)
+* 🚀  I'm currently working on [Advance Ecommerce](http://github.com/panteliza/event-mern)
 
 ### Skills
 
