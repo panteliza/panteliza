@@ -1,10 +1,11 @@
 Ciao ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Eliza Pant
 ==================================================================================================================================
 
-Software Developer
+Frontend Web Developer
 -----------------
 
-I love coding.
+Building modern, responsive, and interactive web experiences with React.js and Next.js.
+
 
 * 🖥️  See my portfolio at [My Website](http://www.elizapant.com.np/)
 * ✉️  You can contact me at [elizapant.github@gmail.com](mailto:elizapant.github@gmail.com)
